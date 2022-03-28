@@ -1,3 +1,11 @@
 git add .
 git commit -m "another commit"
 git push
+//komandat per me rujt kodin ne Github
+git checkout -b "Exercise-52"
+git add .
+git commit -m "Exercise 5.2"
+git push --set-upstream origin Exercise-5
+git push
+git checkout main
+git pull
