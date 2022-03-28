@@ -17,7 +17,7 @@ public class Ushtrimi6 {
             System.out.println("Numri i dyte eshte me i madh");
         } else if (Numri3 > Numri1 && Numri3 > Numri1) {
                 System.out.println("Numri i trete nuk eshte me i madh");
-    } else ()
+    }
 
 
     }
