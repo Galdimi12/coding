@@ -5,7 +5,7 @@ git push
 git checkout -b "Exercise-52"
 git add .
 git commit -m "Exercise 5.2"
-git push --set-upstream origin Exercise-5
+git push --set-upstream origin Exercise-52
 git push
 git checkout main
 git pull
